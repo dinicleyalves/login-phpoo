@@ -12,3 +12,6 @@ Editar linhas 5, 6 e 15 do arquivo 'Connection.class.php' com as informações d
 
 User: Admin<br>
 Pass: 123456
+
+## Dê um Star, e contribua com a melhoria do projeto! 
+

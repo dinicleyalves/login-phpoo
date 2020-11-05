@@ -11,7 +11,7 @@
 	endif; 
 
 	if(isset($_SESSION['logado'])):
-
+		
 ?>
 <html lang="pt-br">
 	<head>

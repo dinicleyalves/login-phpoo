@@ -46,7 +46,6 @@
 			<?php echo isset($erro) ? $erro : ''; ?>
 		</div>		
 
-
 <?php
 	endif;
 ?>
